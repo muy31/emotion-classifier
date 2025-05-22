@@ -1,7 +1,5 @@
 # Classifying Facial Expressions using Convolutional Neural Networks
 
-Muyi Aghedo
-
 ## Introduction
 
 Facial expression is perhaps the most unique method of communication between human beings 
