@@ -1,7 +1,5 @@
 # Classifying Facial Expressions using Convolutional Neural Networks
 
-AMTH 667 - Final Project Report
-Prof. Steven Zucker
 Muyi Aghedo
 
 ## Introduction
